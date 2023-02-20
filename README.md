@@ -6,15 +6,15 @@
 
 <div align="center">
   <h3>
-    <a href="https://joaopaulosf.github.io/buttonComponent-devChallenges.io/">
+    <a href="https://joaopaulosf.github.io/buttonComponent-devChallenges.io/" target="_blank">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/joaopaulosf/buttonComponent-devChallenges.io">
+    <a href="https://github.com/joaopaulosf/buttonComponent-devChallenges.io" target="_blank">
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/ohgVTyJCbm5OZyTB2gNY">
+    <a href="https://devchallenges.io/challenges/ohgVTyJCbm5OZyTB2gNY" target="_blank">
       Challenge
     </a>
   </h3>
