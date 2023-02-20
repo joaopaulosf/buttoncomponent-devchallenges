@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Noto+Sans&family=Poppins&family=Ubuntu+Mono&display=swap');
+
+:root {
+    /* COLORS */
+
+    --first-color: #ffffff;
+    --second-color: #FAFBFD;
+    --third-color: #090F31;
+    --fourth-color: #F7542E;
+    --fifth-color: #9E9E9E;
+    --sixth-color: #4F4F4F;
+    --seventh-color: #E0E0E0;
+    --eighth-color: #3D5AFE;
+    --ninth-color: #2962ff1a;
+    --tenth-color: #455A64;
+    --eleventh-color: #1C313A;
+    --twelfth-color: #D32F2F;
+    --thirteenth-color: #9A0007;
+
+    /* FONTS */
+
+    --default-font-family: 'Noto Sans', sans-serif;
+    --text-font-family: 'Ubuntu Mono', monospace;
+    --tittle-font-family: 'Poppins', sans-serif;
+    --footer-font-family: 'Montserrat', sans-serif;
+
+    --logo-font-size: 13px;
+    --tittle-font-size: 24px;
+    --default-font-size: 14px;
+    --footer-font-size: 12px;
+}
