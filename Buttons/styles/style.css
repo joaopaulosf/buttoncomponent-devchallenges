@@ -130,6 +130,7 @@ button {
 
 #default-hover {
     background-color: var(--fifth-color);
+    box-shadow: none;
 }
 
 
