@@ -1,22 +1,7 @@
-<h1 align="center">Button Componet | devChallenges.io</h1>
+# Button Componet | devChallenges.io
 
-<div align="center">
-   Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
-</div>
+Solution for a challenge from [devChallenge.io](https://devchallenges.io/).
 
-<div align="center">
-  <h3>
-    <a href="https://joaopaulosf.github.io/buttonComponent-devChallenges.io/" target="_blank">
-      Demo
-    </a>
-    <span> | </span>
-    <a href="https://github.com/joaopaulosf/buttonComponent-devChallenges.io" target="_blank">
-      Solution
-    </a>
-    <span> | </span>
-    <a href="https://devchallenges.io/challenges/ohgVTyJCbm5OZyTB2gNY" target="_blank">
-      Challenge
-    </a>
-  </h3>
-</div>
+## [Demo](https://joaopaulosf.github.io/buttonComponent-devChallenges.io/) <span> | </span> [Solution](https://github.com/joaopaulosf/buttonComponent-devChallenges.io)  <span> | </span> [Challenge](https://devchallenges.io/challenges/ohgVTyJCbm5OZyTB2gNY)
+
 
