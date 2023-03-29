@@ -280,3 +280,7 @@ button {
     color: var(--first-color);
     box-shadow: none;
 }
+
+aside a {
+    text-decoration: underline;
+}
